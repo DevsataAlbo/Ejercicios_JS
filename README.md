@@ -6,10 +6,10 @@ Colección de 5 ejercicios interactivos que exploran operaciones fundamentales c
 
 ```bash
 # Clonar o descargar el proyecto
-git clone https://github.com/DevsataAlbo/Azar_Biciesto_tenis.git
+git clone https://github.com/DevsataAlbo/Ejercicios_JS.git
 
 # Navegar al directorio
-cd Azar_Biciesto_tenis
+cd Ejercicios_JS
 
 # Abrir index.html en el navegador
 # Doble click en el archivo o arrastrar al navegador
@@ -18,6 +18,6 @@ cd Azar_Biciesto_tenis
 ### Para ver online 
 ```bash
 
-https://devsataalbo.github.io/Azar_Biciesto_tenis/index.html
+https://devsataalbo.github.io/Ejercicios_JS/index.html
 
 ```
